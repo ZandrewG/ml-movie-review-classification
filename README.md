@@ -3,4 +3,5 @@ A CS180 project that aims to build machine learning models in classifying Rotten
 
 Contributors:
 Gacho, Loridge Anne
+
 Garais, Zandrew Peter
