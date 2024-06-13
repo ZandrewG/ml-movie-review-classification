@@ -18,7 +18,7 @@ Objectives:
 
 Links:
 
-- The dataset can be accessed through this link.(https://www.kaggle.com/datasets/stefanoleone992/rotten-tomatoes-movies-and-critic-reviews-dataset/data)
+- The dataset can be accessed through this link. (https://www.kaggle.com/datasets/stefanoleone992/rotten-tomatoes-movies-and-critic-reviews-dataset/data)
 - The relevant code, including the trained model and vectorizer can be accessed through this link. (https://drive.google.com/drive/folders/1xPOgs2WK3FyPXAl3UNN6OL21AbBr0fkm?usp=drive_link)
 
 To test the model, run the movie_review_site.py streamlit web app found in the Google drive by running:
