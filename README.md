@@ -1,7 +1,9 @@
+#Rotten Tomatoes Review Classification using Naive Bayes and Linear Regression 
+
 Team Members:
 
-- Loridge Anne A. Gacho
-- Zandrew Peter C. Garais
+- ##Loridge Anne A. Gacho
+- ##Zandrew Peter C. Garais
 
 Overview:
 As a partial fulfillment for our CS 180 Artificial Intelligence class, we present a project where we process raw text in the form of movie reviews and classify them into two different sentiments: positive and negative. The reviews, written by critics and sourced from a Kaggle dataset, will undergo pre-processing and analysis using Multinomial Naive Bayes and Logistic Regression. Our goal is to understand how these textual reviews justify the movie ratings.
@@ -22,6 +24,6 @@ Links:
 - The relevant code, including the trained model and vectorizer can be accessed through this link. (https://drive.google.com/drive/folders/1xPOgs2WK3FyPXAl3UNN6OL21AbBr0fkm?usp=drive_link)
 
 To test the model, run the movie_review_site.py streamlit web app found in the Google drive by running:
-`streamlit run movie_review_site.py`
+`streamlit run movie_review_site.py` or access the site at https://movie-review-classification-gg-180.streamlit.app
 
 Alternatively, you may run the FreeRobux_Project_Application.ipynb file found in the drive.
