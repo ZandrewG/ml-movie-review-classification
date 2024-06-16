@@ -2,8 +2,8 @@
 
 Team Members:
 
-## Loridge Anne A. Gacho
-## Zandrew Peter C. Garais
+### Loridge Anne A. Gacho
+### Zandrew Peter C. Garais
 
 Overview:
 As a partial fulfillment for our CS 180 Artificial Intelligence class, we present a project where we process raw text in the form of movie reviews and classify them into two different sentiments: positive and negative. The reviews, written by critics and sourced from a Kaggle dataset, will undergo pre-processing and analysis using Multinomial Naive Bayes and Logistic Regression. Our goal is to understand how these textual reviews justify the movie ratings.
