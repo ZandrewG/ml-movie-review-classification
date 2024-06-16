@@ -1,4 +1,4 @@
-#Rotten Tomatoes Review Classification using Naive Bayes and Linear Regression 
+# Rotten Tomatoes Review Classification using Naive Bayes and Linear Regression 
 
 Team Members:
 
