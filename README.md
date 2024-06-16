@@ -2,7 +2,7 @@
 
 Team Members:
 
-### Loridge Anne A. Gacho
+## Loridge Anne A. Gacho
 ## Zandrew Peter C. Garais
 
 Overview:
